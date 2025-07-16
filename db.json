@@ -1,0 +1,5283 @@
+{
+  "builds": [
+    {
+      "_id": "686f595e7c48c7de7a84c44d",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "12.2508.0.3082",
+        "parentBuild": "ASZ-Assembly-PKG_10.2508.0.4_20250702-1805"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 1,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:10:41.266Z"
+        }
+      ],
+      "gateKPIs": [
+        {
+          "name": "kpiScore",
+          "value": 23,
+          "target": 100
+        },
+        {
+          "name": "preFlightKpiScore",
+          "value": 54,
+          "target": 100
+        }
+      ],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129882019",
+      "buildID": "129882019",
+      "buildName": "12.2508.1001.5581",
+      "buildDate": "2025-07-10T05:17:30.275Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686f59627c48c7de7a84c463",
+      "__v": 0,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686f4b7303fbf1b6edc46669",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "11.2508.0.3081",
+        "parentBuild": "ASZTeamCI_SOL-CRP_81.2506.0.281_20250710-0304"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 0,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "In-Progress",
+          "stage": "cistate",
+          "date": "2025-07-10T06:10:40.217Z"
+        }
+      ],
+      "gateKPIs": [
+        {
+          "name": "kpiScore",
+          "value": 43,
+          "target": 100
+        },
+        {
+          "name": "preFlightKpiScore",
+          "value": 54,
+          "target": 100
+        }
+      ],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129881053",
+      "buildID": "129881053",
+      "buildName": "11.2508.1001.5580",
+      "buildDate": "2025-07-10T05:03:58.888Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686f4b7603fbf1b6edc46695",
+      "__v": 1,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686f4b7303fbf1b6edc4666e",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "12.2508.0.3082",
+        "parentBuild": "ASZTeamCI_SOL-CRP_82.2506.0.284_20250710-0302"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 0,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "In-Progress",
+          "stage": "cistate",
+          "date": "2025-07-10T06:10:41.350Z"
+        }
+      ],
+      "gateKPIs": [
+        {
+          "name": "kpiScore",
+          "value": 43,
+          "target": 100
+        },
+        {
+          "name": "preFlightKpiScore",
+          "value": 65,
+          "target": 100
+        }
+      ],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129880352",
+      "buildID": "129880352",
+      "buildName": "12.2508.1001.5579",
+      "buildDate": "2025-07-10T04:53:37.377Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686f4b7603fbf1b6edc4669c",
+      "__v": 1,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686f4b7303fbf1b6edc4666a",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "11.2508.0.3081",
+        "parentBuild": "ASZ-Assembly-PKG_10.2508.0.4_20250702-1805"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 1,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:10:41.226Z"
+        }
+      ],
+      "gateKPIs": [
+        {
+          "name": "kpiScore",
+          "value": 45,
+          "target": 100
+        },
+        {
+          "name": "preFlightKpiScore",
+          "value": 55,
+          "target": 100
+        }
+      ],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129880101",
+      "buildID": "129880101",
+      "buildName": "11.2508.1001.5577",
+      "buildDate": "2025-07-10T04:47:46.786Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686f4b7603fbf1b6edc4668e",
+      "__v": 1,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686f4b7303fbf1b6edc4666b",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "11.2507.0.3027",
+        "parentBuild": "ASZ-Assembly-PKG_10.2507.0.4_20250708-1946"
+      },
+      "series": {
+        "name": "2507",
+        "id": "684d9082269574e4a344d6f6"
+      },
+      "inactivityHours": 2,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:10:41.238Z"
+        }
+      ],
+      "gateKPIs": [
+        {
+          "name": "kpiScore",
+          "value": 43,
+          "target": 100
+        },
+        {
+          "name": "preFlightKpiScore",
+          "value": 76,
+          "target": 100
+        }
+      ],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129879400",
+      "buildID": "129879400",
+      "buildName": "11.2507.1001.5063",
+      "buildDate": "2025-07-10T04:33:04.038Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686f4b7603fbf1b6edc46699",
+      "__v": 1,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686f4a4303fbf1b6edc45fb6",
+      "definition": {
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "id": "6616cdd4ab5091cb4187f6c9"
+      },
+      "series": {
+        "name": "2506",
+        "id": "6802f5ffd2aed1cf2bc738a2"
+      },
+      "inactivityHours": 2,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [
+        "686f4a4803fbf1b6edc45fc9",
+        "686f4a4803fbf1b6edc45fc6"
+      ],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:06:53.292Z"
+        }
+      ],
+      "gateKPIs": [
+        {
+          "name": "kpiScore",
+          "value": 43,
+          "target": 100
+        },
+        {
+          "name": "preFlightKpiScore",
+          "value": 65,
+          "target": 100
+        }
+      ],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129872450",
+      "buildID": "129872450",
+      "buildName": "ASZTeamCI_SOL-CRP_81.2506.0.281_20250710-0304",
+      "buildDate": "2025-07-10T04:32:55.349Z",
+      "result": "succeeded",
+      "team": "SOL-CRP",
+      "nugets": "686f4a4c03fbf1b6edc4600b",
+      "__v": 1,
+      "definitionDetails": {
+        "_id": "6616cdd4ab5091cb4187f6c9",
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": "0",
+        "definitionID": "350902",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686f4b7303fbf1b6edc4666c",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "12.2508.0.3091",
+        "parentBuild": "ASZ-Assembly-PKG_10.2508.0.4_20250702-1805"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 2,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:10:40.157Z"
+        }
+      ],
+      "gateKPIs": [
+        {
+          "name": "kpiScore",
+          "value": 65,
+          "target": 100
+        },
+        {
+          "name": "preFlightKpiScore",
+          "value": 43,
+          "target": 100
+        }
+      ],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129878340",
+      "buildID": "129878340",
+      "buildName": "12.2508.1001.5576",
+      "buildDate": "2025-07-10T04:25:50.365Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686f4b7603fbf1b6edc46689",
+      "__v": 1,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686f4a4303fbf1b6edc45fb7",
+      "definition": {
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "id": "6616cdd4ab5091cb4187f6c9"
+      },
+      "series": {
+        "name": "2506",
+        "id": "6802f5ffd2aed1cf2bc738a2"
+      },
+      "inactivityHours": 0,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [
+        "686f4a4803fbf1b6edc45fc9",
+        "686f4a4803fbf1b6edc45fc6"
+      ],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:06:55.260Z"
+        }
+      ],
+      "gateKPIs": [
+        {
+          "name": "kpiScore",
+          "value": 63,
+          "target": 100
+        },
+        {
+          "name": "preFlightKpiScore",
+          "value": 87,
+          "target": 100
+        }
+      ],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129872426",
+      "buildID": "129872426",
+      "buildName": "ASZTeamCI_SOL-CRP_82.2506.0.284_20250710-0302",
+      "buildDate": "2025-07-10T04:25:33.607Z",
+      "result": "succeeded",
+      "team": "SOL-CRP",
+      "nugets": "686f4a4d03fbf1b6edc4600f",
+      "__v": 1,
+      "definitionDetails": {
+        "_id": "6616cdd4ab5091cb4187f6c9",
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": "0",
+        "definitionID": "350902",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686f3d1148f03383b997f3ab",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "12.2508.0.3082",
+        "parentBuild": "ASZTeamCI_SOL-PLT_10.2508.0.27_20250710-0234"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 1,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "In-Progress",
+          "stage": "cistate",
+          "date": "2025-07-10T06:10:40.186Z"
+        }
+      ],
+      "gateKPIs": [
+        {
+          "name": "kpiScore",
+          "value": 0,
+          "target": 100
+        },
+        {
+          "name": "preFlightKpiScore",
+          "value": 0,
+          "target": 100
+        }
+      ],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129876620",
+      "buildID": "129876620",
+      "buildName": "12.2508.1001.5575",
+      "buildDate": "2025-07-10T04:05:23.794Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686f3d1648f03383b997f3ba",
+      "__v": 2,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686f3d1148f03383b997f3aa",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "12.2508.0.3082",
+        "parentBuild": "ASZTeamCI_SOL-FBO_50.2508.0.251_20250710-0231"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 0,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "In-Progress",
+          "stage": "cistate",
+          "date": "2025-07-10T06:10:41.274Z"
+        }
+      ],
+      "gateKPIs": [
+        {
+          "name": "kpiScore",
+          "value": 0,
+          "target": 100
+        },
+        {
+          "name": "preFlightKpiScore",
+          "value": 0,
+          "target": 100
+        }
+      ],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129876547",
+      "buildID": "129876547",
+      "buildName": "12.2508.1001.5574",
+      "buildDate": "2025-07-10T04:04:08.029Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686f3d1748f03383b997f3cd",
+      "__v": 2,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686f3d1148f03383b997f3a9",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "12.2508.0.3082",
+        "parentBuild": "ASZ-Assembly-PKG_10.2508.0.4_20250702-1805"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 2,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:10:40.253Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129875783",
+      "buildID": "129875783",
+      "buildName": "12.2508.1001.5573",
+      "buildDate": "2025-07-10T03:51:07.261Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686f3d1648f03383b997f3c3",
+      "__v": 2,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686f3c2d48f03383b997ed0e",
+      "definition": {
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "id": "6616cdd4ab5091cb4187f6c9"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 3,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:06:54.335Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129870575",
+      "buildID": "129870575",
+      "buildName": "ASZTeamCI_SOL-PLT_10.2508.0.27_20250710-0234",
+      "buildDate": "2025-07-10T03:36:23.672Z",
+      "result": "succeeded",
+      "team": "SOL-PLT",
+      "nugets": "686f3c3748f03383b997ed76",
+      "__v": 2,
+      "definitionDetails": {
+        "_id": "6616cdd4ab5091cb4187f6c9",
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": "0",
+        "definitionID": "350902",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686f4b7303fbf1b6edc4666d",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "12.2508.0.3094",
+        "parentBuild": "ASZ-Assembly-PKG_10.2508.0.4_20250702-1805"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 1,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:10:40.192Z"
+        }
+      ],
+      "gateKPIs": [
+        {
+          "name": "kpiScore",
+          "value": 23,
+          "target": 100
+        },
+        {
+          "name": "preFlightKpiScore",
+          "value": 87,
+          "target": 100
+        }
+      ],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129880155",
+      "buildID": "129880155",
+      "buildName": "12.2508.1001.5578",
+      "buildDate": "2025-07-10T04:49:34.763Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686f4b7603fbf1b6edc4668b",
+      "__v": 1,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686f3c2d48f03383b997ed0f",
+      "definition": {
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "id": "6616cdd4ab5091cb4187f6c9"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 3,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:06:53.401Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129870516",
+      "buildID": "129870516",
+      "buildName": "ASZTeamCI_SOL-FBO_50.2508.0.251_20250710-0231",
+      "buildDate": "2025-07-10T03:34:52.411Z",
+      "result": "succeeded",
+      "team": "SOL-FBO",
+      "nugets": "686f3c3148f03383b997ed73",
+      "__v": 2,
+      "definitionDetails": {
+        "_id": "6616cdd4ab5091cb4187f6c9",
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": "0",
+        "definitionID": "350902",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686f3d1148f03383b997f3ac",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "12.2508.0.3082",
+        "parentBuild": "ASZTeamCI_SOL-NET_22.2506.0.183_20250710-0131"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 0,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "In-Progress",
+          "stage": "cistate",
+          "date": "2025-07-10T06:10:45.914Z"
+        }
+      ],
+      "gateKPIs": [
+        {
+          "name": "kpiScore",
+          "value": 0,
+          "target": 100
+        },
+        {
+          "name": "preFlightKpiScore",
+          "value": 0,
+          "target": 100
+        }
+      ],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129873282",
+      "buildID": "129873282",
+      "buildName": "12.2508.1001.5572",
+      "buildDate": "2025-07-10T03:14:34.960Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686f3d1848f03383b997f3d6",
+      "__v": 2,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686f2f0c541d41d82412a33b",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "12.2508.0.3088",
+        "parentBuild": "ASZ-Assembly-PKG_10.2508.0.4_20250702-1805"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 3,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:10:44.645Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129872838",
+      "buildID": "129872838",
+      "buildName": "12.2508.1001.5571",
+      "buildDate": "2025-07-10T03:05:51.180Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686f2f0f541d41d82412a35c",
+      "__v": 3,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686f2f0c541d41d82412a33c",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "12.2508.0.3085",
+        "parentBuild": "ASZ-Assembly-PKG_10.2508.0.4_20250702-1805"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 3,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:10:45.817Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129872647",
+      "buildID": "129872647",
+      "buildName": "12.2508.1001.5570",
+      "buildDate": "2025-07-10T02:59:48.395Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686f2f0f541d41d82412a364",
+      "__v": 3,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686f2e25541d41d824129cfb",
+      "definition": {
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "id": "6616cdd4ab5091cb4187f6c9"
+      },
+      "series": {
+        "name": "2506",
+        "id": "6802f5ffd2aed1cf2bc738a2"
+      },
+      "inactivityHours": 3,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:06:55.233Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129866330",
+      "buildID": "129866330",
+      "buildName": "ASZTeamCI_SOL-NET_22.2506.0.183_20250710-0131",
+      "buildDate": "2025-07-10T02:45:53.773Z",
+      "result": "succeeded",
+      "team": "SOL-NET",
+      "nugets": "686f2e29541d41d824129d0f",
+      "__v": 3,
+      "definitionDetails": {
+        "_id": "6616cdd4ab5091cb4187f6c9",
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": "0",
+        "definitionID": "350902",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686f2f0c541d41d82412a33a",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "11.2508.0.3075",
+        "parentBuild": "ASZ-Assembly-PKG_10.2508.0.4_20250702-1805"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 4,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:10:44.731Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129870660",
+      "buildID": "129870660",
+      "buildName": "11.2508.1001.5569",
+      "buildDate": "2025-07-10T02:27:59.168Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686f2f0f541d41d82412a353",
+      "__v": 3,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686f2f0c541d41d82412a339",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "11.2508.0.3075",
+        "parentBuild": "ASZ-Assembly-PKG_10.2508.0.4_20250702-1805"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 4,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:10:46.030Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129869923",
+      "buildID": "129869923",
+      "buildName": "11.2508.1001.5568",
+      "buildDate": "2025-07-10T02:18:41.303Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686f2f0f541d41d82412a358",
+      "__v": 3,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686f20e3c59edd2df0392e89",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "12.2508.0.3076",
+        "parentBuild": "ASZ-Assembly-PKG_10.2508.0.4_20250702-1805"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 4,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:10:45.692Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129868507",
+      "buildID": "129868507",
+      "buildName": "12.2508.1001.5567",
+      "buildDate": "2025-07-10T01:58:38.337Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686f20e4c59edd2df0392ea9",
+      "__v": 4,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686f20e2c59edd2df0392e84",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "11.2508.0.3075",
+        "parentBuild": "ASZTeamCI_ENS-DEVSEC_77.2408.0.581_20250710-0005"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 0,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Done",
+          "stage": "cistate",
+          "date": "2025-07-10T06:10:44.686Z"
+        }
+      ],
+      "gateKPIs": [
+        {
+          "name": "kpiScore",
+          "value": 0,
+          "target": 100
+        },
+        {
+          "name": "preFlightKpiScore",
+          "value": 0,
+          "target": 100
+        }
+      ],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129867497",
+      "buildID": "129867497",
+      "buildName": "11.2508.1001.5566",
+      "buildDate": "2025-07-10T01:47:15.865Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686f20e5c59edd2df0392eae",
+      "__v": 4,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686f1ffec59edd2df039277a",
+      "definition": {
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "id": "6616cdd4ab5091cb4187f6c9"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 4,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [
+        "68659dd7530211016cdb39ba",
+        "68659dd7530211016cdb39bc",
+        "686485f851fddae89bbab20f",
+        "68633482d5643da42eab1c75",
+        "68633482d5643da42eab1c6f",
+        "68633482d5643da42eab1c71",
+        "68633482d5643da42eab1c7a",
+        "68633482d5643da42eab1c73",
+        "68633482d5643da42eab1c7e",
+        "68633482d5643da42eab1c78",
+        "68633482d5643da42eab1c7c",
+        "68631851240abb83b6175347",
+        "685b4a19fd54fef14d395203",
+        "685b4a19fd54fef14d395205",
+        "685b4a19fd54fef14d3951fe",
+        "685b4a19fd54fef14d3951fa",
+        "685b4a19fd54fef14d3951fc",
+        "685b4a19fd54fef14d395207",
+        "685b4a19fd54fef14d3951f8",
+        "685b4a19fd54fef14d395201"
+      ],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:06:54.332Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129861072",
+      "buildID": "129861072",
+      "buildName": "ASZTeamCI_SOL-CI_10.2508.0.501_20250710-0043",
+      "buildDate": "2025-07-10T01:46:33.900Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686f200cc59edd2df0392845",
+      "__v": 4,
+      "definitionDetails": {
+        "_id": "6616cdd4ab5091cb4187f6c9",
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": "0",
+        "definitionID": "350902",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686f20e2c59edd2df0392e80",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "12.2508.0.3082",
+        "parentBuild": "ASZ-Assembly-PKG_10.2508.0.4_20250702-1805"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 5,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:10:45.820Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129866967",
+      "buildID": "129866967",
+      "buildName": "12.2508.1001.5565",
+      "buildDate": "2025-07-10T01:31:38.131Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686f20e4c59edd2df0392ea6",
+      "__v": 4,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686f20e2c59edd2df0392e81",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "12.2508.0.3076",
+        "parentBuild": "ASZTeamCI_ASZ-WORKLOADS_22.2508.0.291_20250709-2350"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 2,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "In-Progress",
+          "stage": "cistate",
+          "date": "2025-07-10T06:10:44.812Z"
+        }
+      ],
+      "gateKPIs": [
+        {
+          "name": "kpiScore",
+          "value": 0,
+          "target": 100
+        },
+        {
+          "name": "preFlightKpiScore",
+          "value": 0,
+          "target": 100
+        }
+      ],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129866226",
+      "buildID": "129866226",
+      "buildName": "12.2508.1001.5564",
+      "buildDate": "2025-07-10T01:23:55.275Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686f20e5c59edd2df0392eb2",
+      "__v": 4,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686f1ffec59edd2df0392779",
+      "definition": {
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "id": "6616cdd4ab5091cb4187f6c9"
+      },
+      "series": {
+        "name": "2507",
+        "id": "684d9082269574e4a344d6f6"
+      },
+      "inactivityHours": 5,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:06:56.460Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129857044",
+      "buildID": "129857044",
+      "buildName": "ASZTeamCI_ENS-DEVSEC_77.2408.0.581_20250710-0005",
+      "buildDate": "2025-07-10T01:10:20.287Z",
+      "result": "succeeded",
+      "team": "ENS-DEVSEC",
+      "nugets": "686f200bc59edd2df0392841",
+      "__v": 4,
+      "definitionDetails": {
+        "_id": "6616cdd4ab5091cb4187f6c9",
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": "0",
+        "definitionID": "350902",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686f11f74ceca46485486a89",
+      "definition": {
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "id": "6616cdd4ab5091cb4187f6c9"
+      },
+      "series": {
+        "name": "2507",
+        "id": "684d9082269574e4a344d6f6"
+      },
+      "inactivityHours": 5,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [
+        "686f03e87c48c7de7a849f92",
+        "686f03e87c48c7de7a849f90",
+        "686f03e87c48c7de7a849f94",
+        "686f03e87c48c7de7a849f8e"
+      ],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:06:54.622Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129855275",
+      "buildID": "129855275",
+      "buildName": "ASZTeamCI_ASZ-WORKLOADS_22.2508.0.291_20250709-2350",
+      "buildDate": "2025-07-10T00:58:00.721Z",
+      "result": "succeeded",
+      "team": "ASZ-WORKLOADS",
+      "nugets": "686f11ff4ceca46485486ace",
+      "__v": 5,
+      "definitionDetails": {
+        "_id": "6616cdd4ab5091cb4187f6c9",
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": "0",
+        "definitionID": "350902",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686f12cd4ceca46485487102",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "12.2508.0.3076",
+        "parentBuild": "ASZ-Assembly-PKG_10.2508.0.4_20250702-1805"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 5,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:10:44.716Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129863549",
+      "buildID": "129863549",
+      "buildName": "12.2508.1001.5562",
+      "buildDate": "2025-07-10T00:54:29.752Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686f12ce4ceca4648548711b",
+      "__v": 5,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686f03e27c48c7de7a849f77",
+      "definition": {
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "id": "6616cdd4ab5091cb4187f6c9"
+      },
+      "series": {
+        "name": "2507",
+        "id": "684d9082269574e4a344d6f6"
+      },
+      "inactivityHours": 6,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:06:55.327Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129845138",
+      "buildID": "129845138",
+      "buildName": "ASZTeamCI_ENS-DEVSEC_77.2408.0.579_20250709-2237",
+      "buildDate": "2025-07-09T23:47:14.712Z",
+      "result": "succeeded",
+      "team": "ENS-DEVSEC",
+      "nugets": "686f03ec7c48c7de7a84a025",
+      "__v": 6,
+      "definitionDetails": {
+        "_id": "6616cdd4ab5091cb4187f6c9",
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": "0",
+        "definitionID": "350902",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686f03e27c48c7de7a849f78",
+      "definition": {
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "id": "6616cdd4ab5091cb4187f6c9"
+      },
+      "series": {
+        "name": "2506",
+        "id": "6802f5ffd2aed1cf2bc738a2"
+      },
+      "inactivityHours": 7,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [
+        "686f03e87c48c7de7a849f92",
+        "686f03e87c48c7de7a849f90",
+        "686f03e87c48c7de7a849f94",
+        "686f03e87c48c7de7a849f8e"
+      ],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:06:55.385Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129837881",
+      "buildID": "129837881",
+      "buildName": "ASZTeamCI_SOL-CRP_81.2506.0.280_20250709-2147",
+      "buildDate": "2025-07-09T23:17:45.222Z",
+      "result": "succeeded",
+      "team": "SOL-CRP",
+      "nugets": "686f03ef7c48c7de7a84a039",
+      "__v": 6,
+      "definitionDetails": {
+        "_id": "6616cdd4ab5091cb4187f6c9",
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": "0",
+        "definitionID": "350902",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686f03e27c48c7de7a849f79",
+      "definition": {
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "id": "6616cdd4ab5091cb4187f6c9"
+      },
+      "series": {
+        "name": "2506",
+        "id": "6802f5ffd2aed1cf2bc738a2"
+      },
+      "inactivityHours": 7,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [
+        "686f03e87c48c7de7a849f92",
+        "686f03e87c48c7de7a849f90",
+        "686f03e87c48c7de7a849f94",
+        "686f03e87c48c7de7a849f8e"
+      ],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:06:59.823Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129837713",
+      "buildID": "129837713",
+      "buildName": "ASZTeamCI_SOL-CRP_82.2506.0.283_20250709-2145",
+      "buildDate": "2025-07-09T23:15:03.286Z",
+      "result": "succeeded",
+      "team": "SOL-CRP",
+      "nugets": "686f03f07c48c7de7a84a03b",
+      "__v": 6,
+      "definitionDetails": {
+        "_id": "6616cdd4ab5091cb4187f6c9",
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": "0",
+        "definitionID": "350902",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686f04ce7c48c7de7a84a65f",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "11.2507.0.3027",
+        "parentBuild": "ASZ-Assembly-PKG_10.2507.0.4_20250708-1946"
+      },
+      "series": {
+        "name": "2507",
+        "id": "684d9082269574e4a344d6f6"
+      },
+      "inactivityHours": 3,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:10:48.840Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129849897",
+      "buildID": "129849897",
+      "buildName": "11.2507.1001.5062",
+      "buildDate": "2025-07-09T23:13:53.249Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686f04d07c48c7de7a84a67b",
+      "__v": 6,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686ef718a22a3340736c08f3",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "12.2508.0.3076",
+        "parentBuild": "ASZ-Assembly-PKG_10.2508.0.4_20250702-1805"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 7,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:10:54.814Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129847748",
+      "buildID": "129847748",
+      "buildName": "12.2508.1001.5553",
+      "buildDate": "2025-07-09T22:58:12.088Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686ef71ca22a3340736c090c",
+      "__v": 7,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686ef62ea22a3340736c02c2",
+      "definition": {
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "id": "6616cdd4ab5091cb4187f6c9"
+      },
+      "series": {
+        "name": "2507",
+        "id": "684d9082269574e4a344d6f6"
+      },
+      "inactivityHours": -1,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [],
+      "gateKPIs": [],
+      "buildID": "129844725",
+      "buildName": "20250709.16",
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129844725",
+      "buildDate": "2025-07-09T22:35:30.606Z",
+      "result": "failed",
+      "team": "SOL-FBO",
+      "nugets": "686ef62fa22a3340736c02c5",
+      "__v": 0,
+      "definitionDetails": {
+        "_id": "6616cdd4ab5091cb4187f6c9",
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": "0",
+        "definitionID": "350902",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686ef62ea22a3340736c02c1",
+      "definition": {
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "id": "6616cdd4ab5091cb4187f6c9"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 8,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:06:59.901Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129833367",
+      "buildID": "129833367",
+      "buildName": "ASZTeamCI_SOL-FBO_22.2508.0.85_20250709-2121",
+      "buildDate": "2025-07-09T22:32:35.947Z",
+      "result": "succeeded",
+      "team": "SOL-FBO",
+      "nugets": "686ef633a22a3340736c02d9",
+      "__v": 7,
+      "definitionDetails": {
+        "_id": "6616cdd4ab5091cb4187f6c9",
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": "0",
+        "definitionID": "350902",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686ef718a22a3340736c08f4",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "11.2507.0.3027",
+        "parentBuild": "ASZ-Assembly-PKG_10.2507.0.4_20250708-1946"
+      },
+      "series": {
+        "name": "2507",
+        "id": "684d9082269574e4a344d6f6"
+      },
+      "inactivityHours": 1,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:10:54.816Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129842159",
+      "buildID": "129842159",
+      "buildName": "11.2507.1001.5061",
+      "buildDate": "2025-07-09T22:12:39.979Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686ef71ba22a3340736c0906",
+      "__v": 7,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686ee900a2208f879fb66912",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "12.2508.0.3076",
+        "parentBuild": "ASZTeamCI_ASZ-ARCGATEWAY_77.2508.0.89_20250709-1923"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 6,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Done",
+          "stage": "cistate",
+          "date": "2025-07-10T06:10:54.936Z"
+        }
+      ],
+      "gateKPIs": [
+        {
+          "name": "kpiScore",
+          "value": 0,
+          "target": 100
+        },
+        {
+          "name": "preFlightKpiScore",
+          "value": 0,
+          "target": 100
+        }
+      ],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129839698",
+      "buildID": "129839698",
+      "buildName": "12.2508.1001.5552",
+      "buildDate": "2025-07-09T22:01:45.993Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686ee904a2208f879fb66937",
+      "__v": 8,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686ee900a2208f879fb66914",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "11.2508.0.3075",
+        "parentBuild": "ASZ-Assembly-PKG_10.2508.0.4_20250702-1805"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 9,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:10:55.962Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129835621",
+      "buildID": "129835621",
+      "buildName": "11.2508.1001.5550",
+      "buildDate": "2025-07-09T21:30:57.920Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686ee904a2208f879fb66932",
+      "__v": 8,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686ee900a2208f879fb66915",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "12.2508.0.3076",
+        "parentBuild": "ASZTeamCI_ASZ-WORKLOADS_22.2508.0.290_20250709-1840"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 1,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "In-Progress",
+          "stage": "cistate",
+          "date": "2025-07-10T06:10:55.857Z"
+        }
+      ],
+      "gateKPIs": [
+        {
+          "name": "kpiScore",
+          "value": 0,
+          "target": 100
+        },
+        {
+          "name": "preFlightKpiScore",
+          "value": 0,
+          "target": 100
+        }
+      ],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129834780",
+      "buildID": "129834780",
+      "buildName": "12.2508.1001.5549",
+      "buildDate": "2025-07-09T21:20:27.882Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686ee904a2208f879fb66939",
+      "__v": 8,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686ee900a2208f879fb66913",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "11.2508.0.3075",
+        "parentBuild": "ASZ-Assembly-PKG_10.2508.0.4_20250702-1805"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 9,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:10:54.791Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129834172",
+      "buildID": "129834172",
+      "buildName": "11.2508.1001.5548",
+      "buildDate": "2025-07-09T21:11:34.165Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686ee904a2208f879fb6692e",
+      "__v": 8,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686ed9b4ce6e17185da9dbc3",
+      "definition": {
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "id": "6616cdd4ab5091cb4187f6c9"
+      },
+      "series": {
+        "name": "2507",
+        "id": "684d9082269574e4a344d6f6"
+      },
+      "inactivityHours": 9,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:06:58.374Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129812334",
+      "buildID": "129812334",
+      "buildName": "ASZTeamCI_ASZ-ARCGATEWAY_77.2508.0.89_20250709-1923",
+      "buildDate": "2025-07-09T21:01:54.337Z",
+      "result": "succeeded",
+      "team": "ASZ-ARCGATEWAY",
+      "nugets": "686ed9b8ce6e17185da9dbda",
+      "__v": 9,
+      "definitionDetails": {
+        "_id": "6616cdd4ab5091cb4187f6c9",
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": "0",
+        "definitionID": "350902",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686eda9fce6e17185da9e1e3",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "11.2508.0.3075",
+        "parentBuild": "ASZ-Assembly-PKG_10.2508.0.4_20250702-1805"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 10,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:10:55.797Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129828599",
+      "buildID": "129828599",
+      "buildName": "11.2508.1001.5547",
+      "buildDate": "2025-07-09T20:38:45.831Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686edaa4ce6e17185da9e201",
+      "__v": 9,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686ed9b4ce6e17185da9dbc2",
+      "definition": {
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "id": "6616cdd4ab5091cb4187f6c9"
+      },
+      "series": {
+        "name": "2507",
+        "id": "684d9082269574e4a344d6f6"
+      },
+      "inactivityHours": 10,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:07:00.635Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129808225",
+      "buildID": "129808225",
+      "buildName": "ASZTeamCI_ASZ-WORKLOADS_22.2508.0.290_20250709-1840",
+      "buildDate": "2025-07-09T20:08:20.267Z",
+      "result": "succeeded",
+      "team": "ASZ-WORKLOADS",
+      "nugets": "686ed9b8ce6e17185da9dbd8",
+      "__v": 9,
+      "definitionDetails": {
+        "_id": "6616cdd4ab5091cb4187f6c9",
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": "0",
+        "definitionID": "350902",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686eccb3af3b1e67c6939d79",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "12.2508.0.3076",
+        "parentBuild": "ASZ-Assembly-PKG_10.2508.0.4_20250702-1805"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 10,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:10:55.835Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129822160",
+      "buildID": "129822160",
+      "buildName": "12.2508.1001.5546",
+      "buildDate": "2025-07-09T19:59:31.038Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686eccb9af3b1e67c6939db7",
+      "__v": 10,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686ea28183cf12a0f53d0ac8",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "12.2508.0.3055",
+        "parentBuild": "ASZ-Assembly-PKG_10.2508.0.4_20250702-1805"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 13,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:10:55.941Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129803553",
+      "buildID": "129803553",
+      "buildName": "12.2508.1001.5545",
+      "buildDate": "2025-07-09T17:09:11.946Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686ea28683cf12a0f53d0ae3",
+      "__v": 13,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686ea28183cf12a0f53d0ac7",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "12.2508.0.3055",
+        "parentBuild": "ASZ-Assembly-PKG_10.2508.0.4_20250702-1805"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 13,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:10:54.921Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129803541",
+      "buildID": "129803541",
+      "buildName": "12.2508.1001.5544",
+      "buildDate": "2025-07-09T17:08:37.852Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686ea28683cf12a0f53d0adf",
+      "__v": 13,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686e9462b2447e50fb268e03",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "11.2508.0.3054",
+        "parentBuild": "ASZ-Assembly-PKG_10.2508.0.4_20250702-1805"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 2,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:11:01.003Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129795311",
+      "buildID": "129795311",
+      "buildName": "11.2508.1001.5543",
+      "buildDate": "2025-07-09T15:57:53.948Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686e9466b2447e50fb268e19",
+      "__v": 14,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686e8647a2208f879fb648e3",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "11.2508.0.3054",
+        "parentBuild": "ASZ-Assembly-PKG_10.2508.0.4_20250702-1805"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 4,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:11:01.098Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129787800",
+      "buildID": "129787800",
+      "buildName": "11.2508.1001.5542",
+      "buildDate": "2025-07-09T14:30:14.632Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686e864aa2208f879fb648f9",
+      "__v": 15,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686e6a3a5ed8d0e9a98f22fd",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "11.2508.0.3054",
+        "parentBuild": "ASZTeamCI_SOL-CRP_83.2506.0.280_20250709-1058"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 14,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Done",
+          "stage": "cistate",
+          "date": "2025-07-10T06:10:59.995Z"
+        }
+      ],
+      "gateKPIs": [
+        {
+          "name": "kpiScore",
+          "value": 0,
+          "target": 100
+        },
+        {
+          "name": "preFlightKpiScore",
+          "value": 0,
+          "target": 100
+        }
+      ],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129780260",
+      "buildID": "129780260",
+      "buildName": "11.2508.1001.5541",
+      "buildDate": "2025-07-09T12:57:52.117Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686e6a405ed8d0e9a98f2318",
+      "__v": 17,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686e6a3a5ed8d0e9a98f22fc",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "12.2508.0.3055",
+        "parentBuild": "ASZTeamCI_SOL-CRP_84.2506.0.283_20250709-1056"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 14,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Done",
+          "stage": "cistate",
+          "date": "2025-07-10T06:10:59.891Z"
+        }
+      ],
+      "gateKPIs": [
+        {
+          "name": "kpiScore",
+          "value": 0,
+          "target": 100
+        },
+        {
+          "name": "preFlightKpiScore",
+          "value": 0,
+          "target": 100
+        }
+      ],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129780220",
+      "buildID": "129780220",
+      "buildName": "12.2508.1001.5540",
+      "buildDate": "2025-07-09T12:56:47.349Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686e6a405ed8d0e9a98f2314",
+      "__v": 17,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686e693f5ed8d0e9a98f1b6c",
+      "definition": {
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "id": "6616cdd4ab5091cb4187f6c9"
+      },
+      "series": {
+        "name": "2506",
+        "id": "6802f5ffd2aed1cf2bc738a2"
+      },
+      "inactivityHours": 18,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [
+        "686e30fdb2447e50fb264f78",
+        "686e30fdb2447e50fb264f74",
+        "686d7a3db3ec2930b3324a69",
+        "686d7a3db3ec2930b3324a6f",
+        "686d7a3db3ec2930b3324a6d",
+        "686d7a3db3ec2930b3324a71",
+        "686d7a3db3ec2930b3324a73",
+        "6850ce4a303f24be2976e0c1",
+        "686d7a3db3ec2930b3324a6b",
+        "686c52e73e8fbf633db083cd",
+        "686c44bd35804681d2949c4f",
+        "686c44bd35804681d2949c51",
+        "686c44bd35804681d2949c4b",
+        "686c44bd35804681d2949c4d",
+        "686ac90b402016c23513f821",
+        "68673734b2447e50fb2582ab",
+        "68673734b2447e50fb2582a9",
+        "68659dd7530211016cdb39ba",
+        "68659dd7530211016cdb39bc",
+        "686485f851fddae89bbab20f",
+        "68633482d5643da42eab1c75"
+      ],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:07:00.125Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129771445",
+      "buildID": "129771445",
+      "buildName": "ASZTeamCI_SOL-CRP_83.2506.0.280_20250709-1058",
+      "buildDate": "2025-07-09T12:27:23.094Z",
+      "result": "succeeded",
+      "team": "SOL-CRP",
+      "nugets": "686e69585ed8d0e9a98f1c9d",
+      "__v": 17,
+      "definitionDetails": {
+        "_id": "6616cdd4ab5091cb4187f6c9",
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": "0",
+        "definitionID": "350902",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686e693f5ed8d0e9a98f1b6b",
+      "definition": {
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "id": "6616cdd4ab5091cb4187f6c9"
+      },
+      "series": {
+        "name": "2506",
+        "id": "6802f5ffd2aed1cf2bc738a2"
+      },
+      "inactivityHours": 18,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [
+        "686e30fdb2447e50fb264f78",
+        "686e30fdb2447e50fb264f74",
+        "686d7a3db3ec2930b3324a69",
+        "686d7a3db3ec2930b3324a6f",
+        "686d7a3db3ec2930b3324a6d",
+        "686d7a3db3ec2930b3324a71",
+        "686d7a3db3ec2930b3324a73",
+        "6850ce4a303f24be2976e0c1",
+        "686d7a3db3ec2930b3324a6b",
+        "686c52e73e8fbf633db083cd",
+        "686c44bd35804681d2949c4f",
+        "686c44bd35804681d2949c51",
+        "686c44bd35804681d2949c4b",
+        "686c44bd35804681d2949c4d",
+        "686ac90b402016c23513f821",
+        "68673734b2447e50fb2582ab",
+        "68673734b2447e50fb2582a9",
+        "68659dd7530211016cdb39ba",
+        "68659dd7530211016cdb39bc",
+        "686485f851fddae89bbab20f",
+        "68633482d5643da42eab1c75"
+      ],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:06:59.717Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129771387",
+      "buildID": "129771387",
+      "buildName": "ASZTeamCI_SOL-CRP_84.2506.0.283_20250709-1056",
+      "buildDate": "2025-07-09T12:26:41.181Z",
+      "result": "succeeded",
+      "team": "SOL-CRP",
+      "nugets": "686e69585ed8d0e9a98f1ca0",
+      "__v": 17,
+      "definitionDetails": {
+        "_id": "6616cdd4ab5091cb4187f6c9",
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": "0",
+        "definitionID": "350902",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686e5c11af3b1e67c6937d54",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "11.2508.0.3054",
+        "parentBuild": "ASZ-Assembly-PKG_10.2508.0.4_20250702-1805"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 5,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:10:59.905Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129774988",
+      "buildID": "129774988",
+      "buildName": "11.2508.1001.5539",
+      "buildDate": "2025-07-09T11:47:04.352Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686e5c17af3b1e67c6937d6a",
+      "__v": 18,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686e4e06b2447e50fb2672bb",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "12.2508.0.3055",
+        "parentBuild": "ASZTeamCI_ASZ-WORKLOADS_22.2508.0.1238_20250709-0835"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 1,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [
+        "686ebecaafb5c7364af1c79f",
+        "686eccb6af3b1e67c6939dae",
+        "686eccb6af3b1e67c6939dac",
+        "686f59757c48c7de7a84c502",
+        "686ebecaafb5c7364af1c79d",
+        "686ee90aa2208f879fb66967",
+        "686f12dd4ceca46485487164",
+        "686f20f4c59edd2df0392f28",
+        "686f2f1e541d41d82412a3dd",
+        "686f3d2548f03383b997f455"
+      ],
+      "tags": [
+        {
+          "name": "In-Progress",
+          "stage": "cistate",
+          "date": "2025-07-10T06:11:01.056Z"
+        }
+      ],
+      "gateKPIs": [
+        {
+          "name": "kpiScore",
+          "value": 0,
+          "target": 100
+        },
+        {
+          "name": "preFlightKpiScore",
+          "value": 0,
+          "target": 100
+        }
+      ],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129769187",
+      "buildID": "129769187",
+      "buildName": "12.2508.1001.5538",
+      "buildDate": "2025-07-09T10:18:57.514Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686e4e0ab2447e50fb2672d1",
+      "__v": 19,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686e3fe28c53d281a0003519",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "12.2508.0.3055",
+        "parentBuild": "ASZTeamCI_SOL-CRP_82.2506.0.282_20250709-0806"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 1,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Done",
+          "stage": "cistate",
+          "date": "2025-07-10T06:10:59.938Z"
+        }
+      ],
+      "gateKPIs": [
+        {
+          "name": "kpiScore",
+          "value": 0,
+          "target": 100
+        },
+        {
+          "name": "preFlightKpiScore",
+          "value": 0,
+          "target": 100
+        }
+      ],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129767782",
+      "buildID": "129767782",
+      "buildName": "12.2508.1001.5537",
+      "buildDate": "2025-07-09T10:06:32.325Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686e3fe68c53d281a000353d",
+      "__v": 20,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686e3fe28c53d281a0003517",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "12.2508.0.3055",
+        "parentBuild": "ASZTeamCI_ASZ-WORKLOADS_22.2508.0.1237_20250709-0820"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 2,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [
+        "686eccbdaf3b1e67c6939ddd"
+      ],
+      "tags": [
+        {
+          "name": "In-Progress",
+          "stage": "cistate",
+          "date": "2025-07-10T06:11:00.049Z"
+        }
+      ],
+      "gateKPIs": [
+        {
+          "name": "kpiScore",
+          "value": 0,
+          "target": 100
+        },
+        {
+          "name": "preFlightKpiScore",
+          "value": 0,
+          "target": 100
+        }
+      ],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129767675",
+      "buildID": "129767675",
+      "buildName": "12.2508.1001.5536",
+      "buildDate": "2025-07-09T10:04:17.244Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686e3fe58c53d281a0003535",
+      "__v": 20,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686e3fe28c53d281a0003516",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "11.2508.0.3054",
+        "parentBuild": "ASZTeamCI_SOL-CRP_81.2506.0.279_20250709-0806"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 12,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Done",
+          "stage": "cistate",
+          "date": "2025-07-10T06:11:01.090Z"
+        }
+      ],
+      "gateKPIs": [
+        {
+          "name": "kpiScore",
+          "value": 0,
+          "target": 100
+        },
+        {
+          "name": "preFlightKpiScore",
+          "value": 0,
+          "target": 100
+        }
+      ],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129767241",
+      "buildID": "129767241",
+      "buildName": "11.2508.1001.5535",
+      "buildDate": "2025-07-09T09:57:34.274Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686e3fe68c53d281a0003542",
+      "__v": 20,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686e3eff8c53d281a0002de7",
+      "definition": {
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "id": "6616cdd4ab5091cb4187f6c9"
+      },
+      "series": {
+        "name": "2507",
+        "id": "684d9082269574e4a344d6f6"
+      },
+      "inactivityHours": 20,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [
+        "686e30fdb2447e50fb264f78",
+        "686e30fdb2447e50fb264f74",
+        "686d7a3db3ec2930b3324a69",
+        "686d7a3db3ec2930b3324a6f",
+        "686d7a3db3ec2930b3324a6d",
+        "686d7a3db3ec2930b3324a71",
+        "686d7a3db3ec2930b3324a73",
+        "6850ce4a303f24be2976e0c1",
+        "686d7a3db3ec2930b3324a6b"
+      ],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:06:58.623Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129760696",
+      "buildID": "129760696",
+      "buildName": "ASZTeamCI_ASZ-WORKLOADS_22.2508.0.1238_20250709-0835",
+      "buildDate": "2025-07-09T09:46:43.398Z",
+      "result": "succeeded",
+      "team": "ASZ-WORKLOADS",
+      "nugets": "686e3f0e8c53d281a0002ecd",
+      "__v": 20,
+      "definitionDetails": {
+        "_id": "6616cdd4ab5091cb4187f6c9",
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": "0",
+        "definitionID": "350902",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686e3eff8c53d281a0002de5",
+      "definition": {
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "id": "6616cdd4ab5091cb4187f6c9"
+      },
+      "series": {
+        "name": "2506",
+        "id": "6802f5ffd2aed1cf2bc738a2"
+      },
+      "inactivityHours": 21,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [
+        "686e30fdb2447e50fb264f78",
+        "686e30fdb2447e50fb264f74",
+        "686d7a3db3ec2930b3324a69",
+        "686d7a3db3ec2930b3324a6f",
+        "686d7a3db3ec2930b3324a6d",
+        "686d7a3db3ec2930b3324a71",
+        "686d7a3db3ec2930b3324a73",
+        "6850ce4a303f24be2976e0c1",
+        "686d7a3db3ec2930b3324a6b"
+      ],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:07:00.948Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129758142",
+      "buildID": "129758142",
+      "buildName": "ASZTeamCI_SOL-CRP_82.2506.0.282_20250709-0806",
+      "buildDate": "2025-07-09T09:35:52.802Z",
+      "result": "succeeded",
+      "team": "SOL-CRP",
+      "nugets": "686e3f0d8c53d281a0002ec3",
+      "__v": 20,
+      "definitionDetails": {
+        "_id": "6616cdd4ab5091cb4187f6c9",
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": "0",
+        "definitionID": "350902",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686e3eff8c53d281a0002de6",
+      "definition": {
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "id": "6616cdd4ab5091cb4187f6c9"
+      },
+      "series": {
+        "name": "2507",
+        "id": "684d9082269574e4a344d6f6"
+      },
+      "inactivityHours": 21,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [
+        "686e30fdb2447e50fb264f78",
+        "686e30fdb2447e50fb264f74",
+        "686d7a3db3ec2930b3324a69",
+        "686d7a3db3ec2930b3324a6f",
+        "686d7a3db3ec2930b3324a6d",
+        "686d7a3db3ec2930b3324a71",
+        "686d7a3db3ec2930b3324a73",
+        "6850ce4a303f24be2976e0c1",
+        "686d7a3db3ec2930b3324a6b"
+      ],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:06:58.551Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129758845",
+      "buildID": "129758845",
+      "buildName": "ASZTeamCI_ASZ-WORKLOADS_22.2508.0.1237_20250709-0820",
+      "buildDate": "2025-07-09T09:34:16.693Z",
+      "result": "succeeded",
+      "team": "ASZ-WORKLOADS",
+      "nugets": "686e3f0e8c53d281a0002eca",
+      "__v": 20,
+      "definitionDetails": {
+        "_id": "6616cdd4ab5091cb4187f6c9",
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": "0",
+        "definitionID": "350902",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686e3eff8c53d281a0002de4",
+      "definition": {
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "id": "6616cdd4ab5091cb4187f6c9"
+      },
+      "series": {
+        "name": "2506",
+        "id": "6802f5ffd2aed1cf2bc738a2"
+      },
+      "inactivityHours": 21,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [
+        "686e30fdb2447e50fb264f78",
+        "686e30fdb2447e50fb264f74",
+        "686d7a3db3ec2930b3324a69",
+        "686d7a3db3ec2930b3324a6f",
+        "686d7a3db3ec2930b3324a6d",
+        "686d7a3db3ec2930b3324a71",
+        "686d7a3db3ec2930b3324a73",
+        "6850ce4a303f24be2976e0c1",
+        "686d7a3db3ec2930b3324a6b"
+      ],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:06:59.968Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129758144",
+      "buildID": "129758144",
+      "buildName": "ASZTeamCI_SOL-CRP_81.2506.0.279_20250709-0806",
+      "buildDate": "2025-07-09T09:30:43.479Z",
+      "result": "succeeded",
+      "team": "SOL-CRP",
+      "nugets": "686e3f0d8c53d281a0002ec6",
+      "__v": 20,
+      "definitionDetails": {
+        "_id": "6616cdd4ab5091cb4187f6c9",
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": "0",
+        "definitionID": "350902",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686e3fe28c53d281a0003518",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "11.2508.0.3054",
+        "parentBuild": "ASZ-Assembly-PKG_10.2508.0.4_20250702-1805"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 8,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:11:00.997Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129764734",
+      "buildID": "129764734",
+      "buildName": "11.2508.1001.5534",
+      "buildDate": "2025-07-09T09:24:54.881Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686e3fe68c53d281a0003539",
+      "__v": 20,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686e318bb2447e50fb26528d",
+      "definition": {
+        "name": "MAS_TeamCI",
+        "productFamily": "HUB",
+        "id": "6645216796a74e14f0d59384"
+      },
+      "series": {
+        "name": "2510",
+        "id": "6860916c240abb83b6170b22"
+      },
+      "inactivityHours": 14,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [
+        "686e318eb2447e50fb26529d"
+      ],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Done",
+          "stage": "cistate",
+          "date": "2025-07-10T06:08:43.733Z"
+        }
+      ],
+      "gateKPIs": [
+        {
+          "name": "kpiScore",
+          "value": 0,
+          "target": 100
+        },
+        {
+          "name": "preFlightKpiScore",
+          "value": 0,
+          "target": 100
+        }
+      ],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129734073",
+      "buildID": "129734073",
+      "buildName": "TeamCI_SOL-CRP_1.2510.0.2_20250709-0330",
+      "buildDate": "2025-07-09T08:43:27.196Z",
+      "result": "succeeded",
+      "team": "SOL-CRP",
+      "nugets": "686e318fb2447e50fb2652ad",
+      "__v": 21,
+      "definitionDetails": {
+        "_id": "6645216796a74e14f0d59384",
+        "name": "MAS_TeamCI",
+        "productFamily": "HUB",
+        "repository": "621ec0050fbab1dea116c206",
+        "__v": 0,
+        "definitionID": "353805",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686e3202b2447e50fb2656cb",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "12.2508.0.3055",
+        "parentBuild": "ASZ-Assembly-PKG_10.2508.0.4_20250702-1805"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 21,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T05:11:40.038Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129760630",
+      "buildID": "129760630",
+      "buildName": "12.2508.1001.5533",
+      "buildDate": "2025-07-09T08:27:15.739Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686e3206b2447e50fb2656f3",
+      "__v": 20,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686e30fcb2447e50fb264f13",
+      "definition": {
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "id": "6616cdd4ab5091cb4187f6c9"
+      },
+      "series": {
+        "name": "2507",
+        "id": "684d9082269574e4a344d6f6"
+      },
+      "inactivityHours": -1,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [
+        "686e30fdb2447e50fb264f78",
+        "686e30fdb2447e50fb264f84",
+        "686d7a3db3ec2930b3324a69",
+        "686d7a3db3ec2930b3324a6f",
+        "686d7a3db3ec2930b3324a6d",
+        "686d7a3db3ec2930b3324a71",
+        "686d7a3db3ec2930b3324a73",
+        "6850ce4a303f24be2976e0c1",
+        "686d7a3db3ec2930b3324a6b",
+        "686c52e73e8fbf633db083cd",
+        "686c44bd35804681d2949c4f",
+        "686c44bd35804681d2949c51",
+        "686c44bd35804681d2949c4b",
+        "686c44bd35804681d2949c4d",
+        "686ac90b402016c23513f821",
+        "68673734b2447e50fb2582ab",
+        "68673734b2447e50fb2582a9",
+        "68659dd7530211016cdb39ba",
+        "68659dd7530211016cdb39bc",
+        "686485f851fddae89bbab20f",
+        "68633482d5643da42eab1c75",
+        "68633482d5643da42eab1c6f",
+        "68633482d5643da42eab1c71",
+        "68633482d5643da42eab1c7a",
+        "68633482d5643da42eab1c73",
+        "68633482d5643da42eab1c7e",
+        "68633482d5643da42eab1c78",
+        "68633482d5643da42eab1c7c"
+      ],
+      "workitems": [
+        "686c28a95ed8d0e9a98e84c7",
+        "685de06395faf867c4e64ce2",
+        "686da4408c53d281a0000d41",
+        "686da4408c53d281a0000d3d",
+        "6865d7ad29e93f637d81fafd",
+        "686d7a3eb3ec2930b3324a86",
+        "686c28a95ed8d0e9a98e8512",
+        "686d7a3eb3ec2930b3324a84",
+        "686d7a3eb3ec2930b3324a82",
+        "686d7a3eb3ec2930b3324a8f",
+        "686d7a3eb3ec2930b3324a8a",
+        "686d7a3eb3ec2930b3324a92",
+        "686d7a3eb3ec2930b3324a88",
+        "686d7a3eb3ec2930b3324a96",
+        "686d7a3eb3ec2930b3324a94",
+        "686d7a3eb3ec2930b3324a8c",
+        "686c52e83e8fbf633db08443",
+        "686c44c035804681d2949c8f",
+        "685b2f8a240abb83b61630c2",
+        "686c28a95ed8d0e9a98e84c3",
+        "686c28ae5ed8d0e9a98e8541",
+        "686c28a95ed8d0e9a98e8508",
+        "686c28ae5ed8d0e9a98e8544",
+        "686c28a95ed8d0e9a98e8518",
+        "686c28a95ed8d0e9a98e84db",
+        "686c28a95ed8d0e9a98e84cb",
+        "686c28a95ed8d0e9a98e84d7",
+        "686c28a95ed8d0e9a98e84cd",
+        "6855f7fca3140f4b9d804e75",
+        "686c28a95ed8d0e9a98e8524",
+        "686c28a95ed8d0e9a98e8526",
+        "686c28ae5ed8d0e9a98e853a",
+        "686c28a95ed8d0e9a98e851c",
+        "686c28a95ed8d0e9a98e8528",
+        "686c28a95ed8d0e9a98e84bd",
+        "686c28a95ed8d0e9a98e852c",
+        "686c28a95ed8d0e9a98e84d5",
+        "686c28a95ed8d0e9a98e8516",
+        "686c28a95ed8d0e9a98e84bf",
+        "686c28a95ed8d0e9a98e84d9",
+        "686c28a95ed8d0e9a98e850c",
+        "686c28a95ed8d0e9a98e84c1",
+        "686c28a95ed8d0e9a98e850e",
+        "686c28a95ed8d0e9a98e850a",
+        "6831a8ea8f11ca7ccdde8314",
+        "686c28a95ed8d0e9a98e8510",
+        "686c28a95ed8d0e9a98e852e",
+        "686c28a95ed8d0e9a98e84d3",
+        "686c28ae5ed8d0e9a98e853d",
+        "686c28ae5ed8d0e9a98e8538"
+      ],
+      "tags": [],
+      "gateKPIs": [],
+      "buildID": "129758163",
+      "buildName": "20250709.5",
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129758163",
+      "buildDate": "2025-07-09T08:10:46.891Z",
+      "result": "failed",
+      "team": "SOL-CRP",
+      "nugets": "686e3117b2447e50fb265068",
+      "__v": 0,
+      "definitionDetails": {
+        "_id": "6616cdd4ab5091cb4187f6c9",
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": "0",
+        "definitionID": "350902",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686e30fcb2447e50fb264f15",
+      "definition": {
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "id": "6616cdd4ab5091cb4187f6c9"
+      },
+      "series": {
+        "name": "2507",
+        "id": "684d9082269574e4a344d6f6"
+      },
+      "inactivityHours": -1,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [
+        "686e30fdb2447e50fb264f60",
+        "686e30fdb2447e50fb264f74",
+        "686d7a3db3ec2930b3324a69",
+        "686d7a3db3ec2930b3324a6f",
+        "686d7a3db3ec2930b3324a6d",
+        "686d7a3db3ec2930b3324a71",
+        "686d7a3db3ec2930b3324a73",
+        "6850ce4a303f24be2976e0c1",
+        "686d7a3db3ec2930b3324a6b",
+        "686c52e73e8fbf633db083cd",
+        "686c44bd35804681d2949c4f",
+        "686c44bd35804681d2949c51",
+        "686c44bd35804681d2949c4b",
+        "686c44bd35804681d2949c4d",
+        "686ac90b402016c23513f821",
+        "68673734b2447e50fb2582ab",
+        "68673734b2447e50fb2582a9",
+        "68659dd7530211016cdb39ba",
+        "68659dd7530211016cdb39bc",
+        "686485f851fddae89bbab20f",
+        "68633482d5643da42eab1c75",
+        "68633482d5643da42eab1c6f",
+        "68633482d5643da42eab1c71",
+        "68633482d5643da42eab1c7a",
+        "68633482d5643da42eab1c73",
+        "68633482d5643da42eab1c7e",
+        "68633482d5643da42eab1c78",
+        "68633482d5643da42eab1c7c"
+      ],
+      "workitems": [
+        "686c28a95ed8d0e9a98e84c7",
+        "685de06395faf867c4e64ce2",
+        "686da4408c53d281a0000d41",
+        "686da4408c53d281a0000d3d",
+        "6865d7ad29e93f637d81fafd",
+        "686d7a3eb3ec2930b3324a86",
+        "686c28a95ed8d0e9a98e8512",
+        "686d7a3eb3ec2930b3324a84",
+        "686d7a3eb3ec2930b3324a82",
+        "686d7a3eb3ec2930b3324a8f",
+        "686d7a3eb3ec2930b3324a8a",
+        "686d7a3eb3ec2930b3324a92",
+        "686d7a3eb3ec2930b3324a88",
+        "686d7a3eb3ec2930b3324a96",
+        "686d7a3eb3ec2930b3324a94",
+        "686d7a3eb3ec2930b3324a8c",
+        "686c52e83e8fbf633db08443",
+        "686c44c035804681d2949c8f",
+        "685b2f8a240abb83b61630c2",
+        "686c28a95ed8d0e9a98e84c3",
+        "686c28ae5ed8d0e9a98e8541",
+        "686c28a95ed8d0e9a98e8508",
+        "686c28ae5ed8d0e9a98e8544",
+        "686c28a95ed8d0e9a98e8518",
+        "686c28a95ed8d0e9a98e84db",
+        "686c28a95ed8d0e9a98e84cb",
+        "686c28a95ed8d0e9a98e84d7",
+        "686c28a95ed8d0e9a98e84cd",
+        "6855f7fca3140f4b9d804e75",
+        "686c28a95ed8d0e9a98e8524",
+        "686c28a95ed8d0e9a98e8526",
+        "686c28ae5ed8d0e9a98e853a",
+        "686c28a95ed8d0e9a98e851c",
+        "686c28a95ed8d0e9a98e8528",
+        "686c28a95ed8d0e9a98e84bd",
+        "686c28a95ed8d0e9a98e852c",
+        "686c28a95ed8d0e9a98e84d5",
+        "686c28a95ed8d0e9a98e8516",
+        "686c28a95ed8d0e9a98e84bf",
+        "686c28a95ed8d0e9a98e84d9",
+        "686c28a95ed8d0e9a98e850c",
+        "686c28a95ed8d0e9a98e84c1",
+        "686c28a95ed8d0e9a98e850e",
+        "686c28a95ed8d0e9a98e850a",
+        "6831a8ea8f11ca7ccdde8314",
+        "686c28a95ed8d0e9a98e8510",
+        "686c28a95ed8d0e9a98e852e",
+        "686c28a95ed8d0e9a98e84d3",
+        "686c28ae5ed8d0e9a98e853d",
+        "686c28ae5ed8d0e9a98e8538"
+      ],
+      "tags": [],
+      "gateKPIs": [],
+      "buildID": "129758192",
+      "buildName": "20250709.6",
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129758192",
+      "buildDate": "2025-07-09T08:09:32.352Z",
+      "result": "failed",
+      "team": "SOL-CRP",
+      "nugets": "686e3117b2447e50fb265066",
+      "__v": 0,
+      "definitionDetails": {
+        "_id": "6616cdd4ab5091cb4187f6c9",
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": "0",
+        "definitionID": "350902",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686df96e5ed8d0e9a98f0180",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "12.2508.0.3055",
+        "parentBuild": "ASZTeamCI_SOL-PLT_10.2508.0.26_20250709-0242"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 9,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "In-Progress",
+          "stage": "cistate",
+          "date": "2025-07-10T04:10:17.464Z"
+        }
+      ],
+      "gateKPIs": [
+        {
+          "name": "kpiScore",
+          "value": 0,
+          "target": 100
+        },
+        {
+          "name": "preFlightKpiScore",
+          "value": 0,
+          "target": 100
+        }
+      ],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129742706",
+      "buildID": "129742706",
+      "buildName": "12.2508.1001.5531",
+      "buildDate": "2025-07-09T04:24:30.594Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686df9735ed8d0e9a98f018f",
+      "__v": 23,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686dea8f402016c2351426fb",
+      "definition": {
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "id": "6616cdd4ab5091cb4187f6c9"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 26,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:07:04.657Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129735939",
+      "buildID": "129735939",
+      "buildName": "ASZTeamCI_SOL-PLT_10.2508.0.26_20250709-0242",
+      "buildDate": "2025-07-09T03:54:46.353Z",
+      "result": "succeeded",
+      "team": "SOL-PLT",
+      "nugets": "686dea96402016c23514272f",
+      "__v": 26,
+      "definitionDetails": {
+        "_id": "6616cdd4ab5091cb4187f6c9",
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": "0",
+        "definitionID": "350902",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686deae6402016c235142950",
+      "definition": {
+        "name": "MAS_TeamCI",
+        "productFamily": "HUB",
+        "id": "6645216796a74e14f0d59384"
+      },
+      "series": {
+        "name": "2510",
+        "id": "6860916c240abb83b6170b22"
+      },
+      "inactivityHours": -1,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [],
+      "gateKPIs": [],
+      "buildID": "129733643",
+      "buildName": "20250709.1",
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129733643",
+      "buildDate": "2025-07-09T03:31:15.601Z",
+      "result": "failed",
+      "team": "SOL-NET",
+      "nugets": "686deae6402016c235142953",
+      "__v": 0,
+      "definitionDetails": {
+        "_id": "6645216796a74e14f0d59384",
+        "name": "MAS_TeamCI",
+        "productFamily": "HUB",
+        "repository": "621ec0050fbab1dea116c206",
+        "__v": 0,
+        "definitionID": "353805",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686deb58402016c235142d7a",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "12.2508.0.6194",
+        "parentBuild": "ASZ-Assembly-PKG_10.2508.0.4_20250702-1805"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 25,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T04:10:17.425Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129737738",
+      "buildID": "129737738",
+      "buildName": "12.2508.1001.5530",
+      "buildDate": "2025-07-09T03:14:59.467Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686deb5c402016c235142d90",
+      "__v": 24,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686ddd5083cf12a0f53ce6e8",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "11.2508.0.3054",
+        "parentBuild": "ASZTeamCI_ENS-DEVSEC_77.2408.0.578_20250709-0052"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 23,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Done",
+          "stage": "cistate",
+          "date": "2025-07-10T04:10:17.501Z"
+        }
+      ],
+      "gateKPIs": [
+        {
+          "name": "kpiScore",
+          "value": 0,
+          "target": 100
+        },
+        {
+          "name": "preFlightKpiScore",
+          "value": 0,
+          "target": 100
+        }
+      ],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129735890",
+      "buildID": "129735890",
+      "buildName": "11.2508.1001.5529",
+      "buildDate": "2025-07-09T02:32:27.954Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686ddd5383cf12a0f53ce6ff",
+      "__v": 25,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686ddd5083cf12a0f53ce6e7",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "11.2508.0.3054",
+        "parentBuild": "ASZ-Assembly-PKG_10.2508.0.4_20250702-1805"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 13,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T04:10:18.265Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129735488",
+      "buildID": "129735488",
+      "buildName": "11.2508.1001.5528",
+      "buildDate": "2025-07-09T02:25:11.495Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686ddd5483cf12a0f53ce703",
+      "__v": 25,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686ddc9483cf12a0f53ce091",
+      "definition": {
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "id": "6616cdd4ab5091cb4187f6c9"
+      },
+      "series": {
+        "name": "2507",
+        "id": "684d9082269574e4a344d6f6"
+      },
+      "inactivityHours": 28,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:07:05.041Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129727526",
+      "buildID": "129727526",
+      "buildName": "ASZTeamCI_ENS-DEVSEC_77.2408.0.578_20250709-0052",
+      "buildDate": "2025-07-09T02:06:18.966Z",
+      "result": "succeeded",
+      "team": "ENS-DEVSEC",
+      "nugets": "686ddc9e83cf12a0f53ce0c6",
+      "__v": 27,
+      "definitionDetails": {
+        "_id": "6616cdd4ab5091cb4187f6c9",
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": "0",
+        "definitionID": "350902",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686dcee835804681d294c56d",
+      "definition": {
+        "name": "AzureStack-VSR-Official",
+        "productFamily": "ASZ",
+        "id": "67440c89b6d96bcd3bade486"
+      },
+      "metadata": {
+        "composedImage": "12.2507.0.3028",
+        "parentBuild": "ASZ-Assembly-PKG_10.2507.0.4_20250708-1946"
+      },
+      "series": {
+        "name": "2507",
+        "id": "684d9082269574e4a344d6f6"
+      },
+      "inactivityHours": 0,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [
+        "686e85f7a2208f879fb645eb",
+        "686e941eb2447e50fb268b3b",
+        "686ef6d2a22a3340736c0639",
+        "686ef6d4a22a3340736c0657",
+        "686ef6d2a22a3340736c0634",
+        "686f048d7c48c7de7a84a3ba",
+        "686f128e4ceca46485486e55",
+        "686f12904ceca46485486e63",
+        "686f4b3203fbf1b6edc463d9",
+        "686e69f05ed8d0e9a98f2006",
+        "686eda5bce6e17185da9df2e",
+        "686f128d4ceca46485486e3e",
+        "686f20a4c59edd2df0392bb6",
+        "686f3cd548f03383b997f124",
+        "686f59247c48c7de7a84c1b4",
+        "686f591e7c48c7de7a84c167",
+        "686f59267c48c7de7a84c1ce",
+        "686e5bc6af3b1e67c6937a4f",
+        "686e5bc6af3b1e67c6937a4d",
+        "686e69f05ed8d0e9a98f200b",
+        "686e77cab68efbb3d210b533",
+        "686f3cd648f03383b997f12a",
+        "686f59267c48c7de7a84c1c3",
+        "686f59287c48c7de7a84c1e3"
+      ],
+      "tags": [
+        {
+          "name": "",
+          "stage": "ProdCI",
+          "date": "2025-07-09T16:55:54.000Z"
+        },
+        {
+          "name": "In-Progress",
+          "stage": "cistate",
+          "date": "2025-07-10T06:09:32.360Z"
+        }
+      ],
+      "gateKPIs": [
+        {
+          "name": "kpiScore",
+          "value": 71,
+          "target": 100
+        },
+        {
+          "name": "preFlightKpiScore",
+          "value": 23,
+          "target": 100
+        }
+      ],
+      "releaseURL": "https://msazure.visualstudio.com/One/_build/results?buildId=129752149&view=results",
+      "buildID": "129731390",
+      "buildName": "12.2507.1001.4",
+      "buildDate": "2025-07-09T01:40:56.756Z",
+      "result": "succeeded",
+      "team": "SOL-BLD",
+      "nugets": "686dcef035804681d294c579",
+      "__v": 28,
+      "definitionDetails": {
+        "_id": "67440c89b6d96bcd3bade486",
+        "name": "AzureStack-VSR-Official",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394015",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686dcf3635804681d294c856",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "11.2508.0.3054",
+        "parentBuild": "ASZ-Assembly-PKG_10.2508.0.4_20250702-1805"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 12,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T04:10:18.362Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129731472",
+      "buildID": "129731472",
+      "buildName": "11.2508.1001.5526",
+      "buildDate": "2025-07-09T01:30:14.197Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686dcf3935804681d294c86c",
+      "__v": 26,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686dc1403f8c883c31bb7fda",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "12.2508.0.3073",
+        "parentBuild": "ASZ-Assembly-PKG_10.2508.0.4_20250702-1805"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 27,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T04:10:18.298Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129726766",
+      "buildID": "129726766",
+      "buildName": "12.2508.1001.5525",
+      "buildDate": "2025-07-09T00:43:00.433Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686dc1443f8c883c31bb7fee",
+      "__v": 27,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686dc1403f8c883c31bb7fd9",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "12.2508.0.3055",
+        "parentBuild": "ASZ-Assembly-PKG_10.2508.0.4_20250702-1805"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 27,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T03:10:25.594Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129725233",
+      "buildID": "129725233",
+      "buildName": "12.2508.1001.5524",
+      "buildDate": "2025-07-09T00:40:02.241Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686dc1443f8c883c31bb7ff1",
+      "__v": 26,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686dc1413f8c883c31bb7fdb",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "12.2508.0.3055",
+        "parentBuild": "ASZTeamCI_SOL-FBO_22.2508.0.84_20250708-2146"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 0,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [
+        "686e3205b2447e50fb2656ef",
+        "686e5c1baf3b1e67c6937d99",
+        "686e5c1baf3b1e67c6937d97",
+        "684a6f395a792d994d3512fc",
+        "686e078f45d86a3ed654e127",
+        "686e078f45d86a3ed654e12b",
+        "686e078f45d86a3ed654e124",
+        "686e078f45d86a3ed654e129",
+        "686e15a8c68e28d0e195e660"
+      ],
+      "tags": [
+        {
+          "name": "In-Progress",
+          "stage": "cistate",
+          "date": "2025-07-10T03:10:25.749Z"
+        }
+      ],
+      "gateKPIs": [
+        {
+          "name": "kpiScore",
+          "value": 0,
+          "target": 100
+        },
+        {
+          "name": "preFlightKpiScore",
+          "value": 0,
+          "target": 100
+        }
+      ],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129719716",
+      "buildID": "129719716",
+      "buildName": "12.2508.1001.5521",
+      "buildDate": "2025-07-09T00:16:40.007Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686dc1453f8c883c31bb7ffd",
+      "__v": 26,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686db3583e8fbf633db0ca18",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "11.2508.0.3054",
+        "parentBuild": "ASZ-Assembly-PKG_10.2508.0.4_20250702-1805"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 15,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T03:10:27.576Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129720750",
+      "buildID": "129720750",
+      "buildName": "11.2508.1001.5523",
+      "buildDate": "2025-07-09T00:03:25.669Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686db35c3e8fbf633db0ca3c",
+      "__v": 27,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686db3583e8fbf633db0ca1a",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "11.2508.0.3054",
+        "parentBuild": "ASZ-Assembly-PKG_10.2508.0.4_20250702-1805"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 13,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T03:10:26.569Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129720191",
+      "buildID": "129720191",
+      "buildName": "11.2508.1001.5522",
+      "buildDate": "2025-07-09T00:03:05.579Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686db35b3e8fbf633db0ca32",
+      "__v": 27,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686db3583e8fbf633db0ca19",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "11.2507.0.3027",
+        "parentBuild": "ASZ-Assembly-PKG_10.2507.0.4_20250708-1946"
+      },
+      "series": {
+        "name": "2507",
+        "id": "684d9082269574e4a344d6f6"
+      },
+      "inactivityHours": 18,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T02:10:00.238Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129716628",
+      "buildID": "129716628",
+      "buildName": "11.2507.1001.5060",
+      "buildDate": "2025-07-08T23:33:42.373Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686db35b3e8fbf633db0ca34",
+      "__v": 26,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686db2fd3e8fbf633db0c737",
+      "definition": {
+        "name": "AzureStack-VSR-Official",
+        "productFamily": "ASZ",
+        "id": "67440c89b6d96bcd3bade486"
+      },
+      "metadata": {
+        "composedImage": "11.2507.0.3027",
+        "parentBuild": "ASZ-Assembly-PKG_10.2507.0.4_20250708-1946"
+      },
+      "series": {
+        "name": "2507",
+        "id": "684d9082269574e4a344d6f6"
+      },
+      "inactivityHours": 1,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [
+        "686f048b7c48c7de7a84a39f",
+        "686f20a4c59edd2df0392bc1",
+        "686f3cd048f03383b997f0d8",
+        "686e69f05ed8d0e9a98f1ff6",
+        "686e69f05ed8d0e9a98f1ffa",
+        "686f048b7c48c7de7a84a39c",
+        "686f20a4c59edd2df0392bb2",
+        "686e5bc8af3b1e67c6937a5a",
+        "686e5bc8af3b1e67c6937a5c",
+        "686f591e7c48c7de7a84c172",
+        "686ef6d2a22a3340736c0639",
+        "686ef6d2a22a3340736c0634",
+        "686f128d4ceca46485486e3e",
+        "686f20a4c59edd2df0392bb6",
+        "686f128d4ceca46485486e3b",
+        "686e77cab68efbb3d210b528",
+        "686f20a4c59edd2df0392bbe",
+        "686f591e7c48c7de7a84c174",
+        "686e77cab68efbb3d210b525",
+        "686eda5bce6e17185da9df2e",
+        "686f591e7c48c7de7a84c167"
+      ],
+      "tags": [
+        {
+          "name": "",
+          "stage": "ProdCI",
+          "date": "2025-07-09T16:57:16.000Z"
+        },
+        {
+          "name": "In-Progress",
+          "stage": "cistate",
+          "date": "2025-07-10T06:09:27.110Z"
+        }
+      ],
+      "gateKPIs": [
+        {
+          "name": "kpiScore",
+          "value": 70,
+          "target": 100
+        },
+        {
+          "name": "preFlightKpiScore",
+          "value": 0,
+          "target": 100
+        }
+      ],
+      "releaseURL": "https://msazure.visualstudio.com/One/_build/results?buildId=129752113&view=results",
+      "buildID": "129713542",
+      "buildName": "11.2507.1001.3",
+      "buildDate": "2025-07-08T23:20:05.428Z",
+      "result": "succeeded",
+      "team": "SOL-BLD",
+      "nugets": "686db3053e8fbf633db0c740",
+      "__v": 30,
+      "definitionDetails": {
+        "_id": "67440c89b6d96bcd3bade486",
+        "name": "AzureStack-VSR-Official",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394015",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686da43f8c53d281a0000d1d",
+      "definition": {
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "id": "6616cdd4ab5091cb4187f6c9"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 31,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:07:04.581Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129701033",
+      "buildID": "129701033",
+      "buildName": "ASZTeamCI_SOL-FBO_22.2508.0.84_20250708-2146",
+      "buildDate": "2025-07-08T23:04:17.924Z",
+      "result": "succeeded",
+      "team": "SOL-FBO",
+      "nugets": "686da4438c53d281a0000d5a",
+      "__v": 31,
+      "definitionDetails": {
+        "_id": "6616cdd4ab5091cb4187f6c9",
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": "0",
+        "definitionID": "350902",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686da43f8c53d281a0000d1f",
+      "definition": {
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "id": "6616cdd4ab5091cb4187f6c9"
+      },
+      "series": {
+        "name": "2507",
+        "id": "684d9082269574e4a344d6f6"
+      },
+      "inactivityHours": -1,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [
+        "686c28a95ed8d0e9a98e84c7",
+        "685de06395faf867c4e64ce2",
+        "686da4408c53d281a0000d41",
+        "686da4408c53d281a0000d3d",
+        "6865d7ad29e93f637d81fafd",
+        "686d7a3eb3ec2930b3324a86",
+        "686c28a95ed8d0e9a98e8512",
+        "686d7a3eb3ec2930b3324a84",
+        "686d7a3eb3ec2930b3324a82",
+        "686d7a3eb3ec2930b3324a8f",
+        "686d7a3eb3ec2930b3324a8a",
+        "686d7a3eb3ec2930b3324a92",
+        "686d7a3eb3ec2930b3324a88",
+        "686d7a3eb3ec2930b3324a96",
+        "686d7a3eb3ec2930b3324a94",
+        "686d7a3eb3ec2930b3324a8c"
+      ],
+      "tags": [],
+      "gateKPIs": [],
+      "buildID": "129709307",
+      "buildName": "20250708.15",
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129709307",
+      "buildDate": "2025-07-08T22:39:31.705Z",
+      "result": "failed",
+      "team": "ENS-DEVSEC",
+      "nugets": "686da4438c53d281a0000d54",
+      "__v": 0,
+      "definitionDetails": {
+        "_id": "6616cdd4ab5091cb4187f6c9",
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": "0",
+        "definitionID": "350902",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686da4fa8c53d281a0001370",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "12.2508.0.3055",
+        "parentBuild": "ASZ-Assembly-PKG_10.2508.0.4_20250702-1805"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 28,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T02:10:00.174Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129707693",
+      "buildID": "129707693",
+      "buildName": "12.2508.1001.5520",
+      "buildDate": "2025-07-08T22:31:12.317Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686da4fe8c53d281a0001394",
+      "__v": 27,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686da4fa8c53d281a0001372",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "12.2508.0.6188",
+        "parentBuild": "ASZ-Assembly-PKG_10.2508.0.4_20250702-1805"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 28,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T02:10:00.303Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129705456",
+      "buildID": "129705456",
+      "buildName": "12.2508.1001.5519",
+      "buildDate": "2025-07-08T22:20:42.380Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686da4fe8c53d281a000138c",
+      "__v": 27,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686da43f8c53d281a0000d1e",
+      "definition": {
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "id": "6616cdd4ab5091cb4187f6c9"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 32,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:07:03.451Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129696130",
+      "buildID": "129696130",
+      "buildName": "ASZTeamCI_SOL-FBO_22.2508.0.83_20250708-2105",
+      "buildDate": "2025-07-08T22:17:44.221Z",
+      "result": "succeeded",
+      "team": "SOL-FBO",
+      "nugets": "686da4438c53d281a0000d57",
+      "__v": 31,
+      "definitionDetails": {
+        "_id": "6616cdd4ab5091cb4187f6c9",
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": "0",
+        "definitionID": "350902",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686da4fa8c53d281a0001371",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "12.2507.0.3028",
+        "parentBuild": "ASZ-Assembly-PKG_10.2507.0.4_20250708-1946"
+      },
+      "series": {
+        "name": "2507",
+        "id": "684d9082269574e4a344d6f6"
+      },
+      "inactivityHours": 28,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T02:10:00.268Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129705752",
+      "buildID": "129705752",
+      "buildName": "12.2507.1001.5059",
+      "buildDate": "2025-07-08T22:15:10.336Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686da4fe8c53d281a0001390",
+      "__v": 27,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686d970b3e8fbf633db0af31",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "12.2508.0.3055",
+        "parentBuild": "ASZTeamCI_ASZ-ARCGATEWAY_77.2508.0.88_20250708-1942"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 23,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Done",
+          "stage": "cistate",
+          "date": "2025-07-10T01:09:56.900Z"
+        }
+      ],
+      "gateKPIs": [
+        {
+          "name": "kpiScore",
+          "value": 0,
+          "target": 100
+        },
+        {
+          "name": "preFlightKpiScore",
+          "value": 0,
+          "target": 100
+        }
+      ],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129704597",
+      "buildID": "129704597",
+      "buildName": "12.2508.1001.5518",
+      "buildDate": "2025-07-08T21:59:41.669Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686d970f3e8fbf633db0af4e",
+      "__v": 27,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686d970c3e8fbf633db0af33",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "11.2508.0.6189",
+        "parentBuild": "ASZ-Assembly-PKG_10.2506.0.11_20250614-0059"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 28,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T01:09:55.772Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129700394",
+      "buildID": "129700394",
+      "buildName": "11.2508.1001.5517",
+      "buildDate": "2025-07-08T21:23:13.269Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686d970f3e8fbf633db0af52",
+      "__v": 27,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686d970c3e8fbf633db0af34",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "11.2508.0.3054",
+        "parentBuild": "ASZ-Assembly-PKG_10.2508.0.4_20250702-1805"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 11,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T01:09:57.128Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129698299",
+      "buildID": "129698299",
+      "buildName": "11.2508.1001.5516",
+      "buildDate": "2025-07-08T21:14:32.074Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686d970f3e8fbf633db0af4a",
+      "__v": 27,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686d963b3e8fbf633db0a8df",
+      "definition": {
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "id": "6616cdd4ab5091cb4187f6c9"
+      },
+      "series": {
+        "name": "2507",
+        "id": "684d9082269574e4a344d6f6"
+      },
+      "inactivityHours": 33,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:07:04.220Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129686689",
+      "buildID": "129686689",
+      "buildName": "ASZTeamCI_ASZ-ARCGATEWAY_77.2508.0.88_20250708-1942",
+      "buildDate": "2025-07-08T21:13:32.921Z",
+      "result": "succeeded",
+      "team": "ASZ-ARCGATEWAY",
+      "nugets": "686d963f3e8fbf633db0a8f4",
+      "__v": 32,
+      "definitionDetails": {
+        "_id": "6616cdd4ab5091cb4187f6c9",
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": "0",
+        "definitionID": "350902",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686d88e13f8c883c31bb643e",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "11.2508.0.3054",
+        "parentBuild": "ASZ-Assembly-PKG_10.2508.0.4_20250702-1805"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 11,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T01:09:56.865Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129696844",
+      "buildID": "129696844",
+      "buildName": "11.2508.1001.5515",
+      "buildDate": "2025-07-08T21:03:27.430Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686d88e43f8c883c31bb6454",
+      "__v": 28,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686d88e13f8c883c31bb643f",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "11.2508.0.3054",
+        "parentBuild": "ASZ-Assembly-PKG_10.2508.0.4_20250702-1805"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 16,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T00:10:12.213Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129689642",
+      "buildID": "129689642",
+      "buildName": "11.2508.1001.5514",
+      "buildDate": "2025-07-08T20:09:36.091Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686d88e43f8c883c31bb6458",
+      "__v": 27,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686d7afab3ec2930b33250df",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "12.2508.0.3055",
+        "parentBuild": "ASZ-Assembly-PKG_10.2508.0.4_20250702-1805"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 28,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T00:10:12.198Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129688730",
+      "buildID": "129688730",
+      "buildName": "12.2508.1001.5513",
+      "buildDate": "2025-07-08T19:58:10.511Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686d7afeb3ec2930b33250f4",
+      "__v": 28,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686d7a3db3ec2930b3324a5f",
+      "definition": {
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "id": "6616cdd4ab5091cb4187f6c9"
+      },
+      "series": {
+        "name": "2507",
+        "id": "684d9082269574e4a344d6f6"
+      },
+      "inactivityHours": -1,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [
+        "686d7a3db3ec2930b3324a69",
+        "686d7a3db3ec2930b3324a6f",
+        "686d7a3db3ec2930b3324a6d",
+        "686d7a3db3ec2930b3324a71",
+        "686d7a3db3ec2930b3324a73",
+        "6850ce4a303f24be2976e0c1",
+        "686d7a3db3ec2930b3324a6b"
+      ],
+      "workitems": [
+        "6865d7ad29e93f637d81fafd",
+        "686d7a3eb3ec2930b3324a86",
+        "686c28a95ed8d0e9a98e8512",
+        "686d7a3eb3ec2930b3324a84",
+        "686d7a3eb3ec2930b3324a82",
+        "686d7a3eb3ec2930b3324a8f",
+        "686d7a3eb3ec2930b3324a8a",
+        "686d7a3eb3ec2930b3324a92",
+        "686d7a3eb3ec2930b3324a88",
+        "686d7a3eb3ec2930b3324a96",
+        "686d7a3eb3ec2930b3324a94",
+        "686d7a3eb3ec2930b3324a8c"
+      ],
+      "tags": [],
+      "gateKPIs": [],
+      "buildID": "129685532",
+      "buildName": "ASZTeamCI_ASZ-WORKLOADS_22.2508.0.1454_20250708-1934",
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129685532",
+      "buildDate": "2025-07-08T19:44:36.092Z",
+      "result": "failed",
+      "team": "ASZ-WORKLOADS",
+      "nugets": "686d7a40b3ec2930b3324aa7",
+      "__v": 0,
+      "definitionDetails": {
+        "_id": "6616cdd4ab5091cb4187f6c9",
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": "0",
+        "definitionID": "350902",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686d6cfbb68efbb3d2109340",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "12.2508.0.3055",
+        "parentBuild": "ASZTeamCI_ASZ-ARCGATEWAY_77.2508.0.87_20250708-1640"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 21,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Done",
+          "stage": "cistate",
+          "date": "2025-07-10T00:10:13.247Z"
+        }
+      ],
+      "gateKPIs": [
+        {
+          "name": "kpiScore",
+          "value": 0,
+          "target": 100
+        },
+        {
+          "name": "preFlightKpiScore",
+          "value": 0,
+          "target": 100
+        }
+      ],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129679647",
+      "buildID": "129679647",
+      "buildName": "12.2508.1001.5512",
+      "buildDate": "2025-07-08T18:50:42.367Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686d6cfeb68efbb3d210935a",
+      "__v": 29,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686d6cfbb68efbb3d2109341",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "12.2508.0.3055",
+        "parentBuild": "ASZTeamCI_SOL-NET_22.2506.0.182_20250708-1623"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 1,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "In-Progress",
+          "stage": "cistate",
+          "date": "2025-07-09T23:11:44.338Z"
+        }
+      ],
+      "gateKPIs": [
+        {
+          "name": "kpiScore",
+          "value": 0,
+          "target": 100
+        },
+        {
+          "name": "preFlightKpiScore",
+          "value": 0,
+          "target": 100
+        }
+      ],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129674341",
+      "buildID": "129674341",
+      "buildName": "12.2508.1001.5511",
+      "buildDate": "2025-07-08T18:16:35.889Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686d6cfeb68efbb3d2109356",
+      "__v": 28,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686d6c1bb68efbb3d2108cf4",
+      "definition": {
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "id": "6616cdd4ab5091cb4187f6c9"
+      },
+      "series": {
+        "name": "2507",
+        "id": "684d9082269574e4a344d6f6"
+      },
+      "inactivityHours": 36,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-10T06:07:04.732Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129663072",
+      "buildID": "129663072",
+      "buildName": "ASZTeamCI_ASZ-ARCGATEWAY_77.2508.0.87_20250708-1640",
+      "buildDate": "2025-07-08T18:14:19.840Z",
+      "result": "succeeded",
+      "team": "ASZ-ARCGATEWAY",
+      "nugets": "686d6c20b68efbb3d2108d09",
+      "__v": 35,
+      "definitionDetails": {
+        "_id": "6616cdd4ab5091cb4187f6c9",
+        "name": "ASZ-Assembly-TeamCI",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": "0",
+        "definitionID": "350902",
+        "enableSync": true,
+        "hidden": false
+      }
+    },
+    {
+      "_id": "686d5ebfb68efbb3d21078a8",
+      "definition": {
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "id": "67440caeb6d96bcd3bade487"
+      },
+      "metadata": {
+        "composedImage": "11.2508.0.3054",
+        "parentBuild": "ASZ-Assembly-PKG_10.2508.0.4_20250702-1805"
+      },
+      "series": {
+        "name": "2508",
+        "id": "68474e4f269574e4a3444fa9"
+      },
+      "inactivityHours": 18,
+      "prRevertCount": 0,
+      "nuGetChangesCount": 0,
+      "pullrequests": [],
+      "workitems": [],
+      "tags": [
+        {
+          "name": "Not started",
+          "stage": "cistate",
+          "date": "2025-07-09T23:11:42.814Z"
+        }
+      ],
+      "gateKPIs": [],
+      "releaseURL": "https://dev.azure.com/msazure/b32aa71e-8ed2-41b2-9d77-5bc261222004/_build/results?buildId=129671720",
+      "buildID": "129671720",
+      "buildName": "11.2508.1001.5510",
+      "buildDate": "2025-07-08T17:52:12.639Z",
+      "result": "succeeded",
+      "team": "undefined",
+      "nugets": "686d5ec3b68efbb3d21078be",
+      "__v": 29,
+      "definitionDetails": {
+        "_id": "67440caeb6d96bcd3bade487",
+        "name": "AzureStack-VSR-Buddy",
+        "productFamily": "ASZ",
+        "repository": "621ec0530fbab1dea116c208",
+        "__v": 0,
+        "definitionID": "394144",
+        "enableSync": true,
+        "hidden": false
+      }
+    }
+  ]
+}
