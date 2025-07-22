@@ -1,6 +1,8 @@
 import ContentContainer from "../../styled-components/ContentContainer";
-import { useState, useEffect } from "react";
-import type { Build } from "./models/Build";
+import { useEffect } from "react";
+import { useDispatch, useSelector } from "react-redux";
+import { getData } from "../../redux/actions";
+import type { AppDispatch, RootState } from "../../redux/store";
 import type { TransformedBuild } from "./models/BuildInfo";
 import MUIDataTable from "mui-datatables";
 import type {
@@ -14,27 +16,13 @@ import CircularProgressKPI from "../../components/CircularProgressKPI";
 import Loader from "../../components/CircularLoader";
 
 const Overview = () => {
-  const [builds, setBuilds] = useState<Build[]>([]);
-  const [loading, setLoading] = useState(false);
+  const dispatch: AppDispatch = useDispatch<AppDispatch>();
+  const builds = useSelector((state: RootState) => state.tempData);
+  const loading = useSelector((state: RootState) => state.loading);
 
   useEffect(() => {
-    getBuildData();
-  }, []);
-
-  async function getBuildData() {
-    try {
-      setLoading(true);
-      await new Promise(resolve => setTimeout(resolve, 2000));
-      const response = await fetch("http://localhost:3001/builds");
-       // Simulate a delay for loading effect
-      const data: Build[] = await response.json();
-      setBuilds(data);
-    } catch (error) {
-      console.error("Error fetching build data:", error);
-    } finally {
-      setLoading(false);
-    }
-  }
+    dispatch(getData());
+  }, [dispatch]);
 
   const buildData: TransformedBuild[] = builds.map((build) => {
     const tags = build.tags || [];
@@ -231,17 +219,17 @@ const Overview = () => {
       options: {
         sort: false,
         filter: false,
-        customHeadRender: () => {
+        customHeadRender: (columnMeta: MUIDataTableCustomHeadRenderer) => {
           return (
-            <td
-              key={"Pre-Flight KPI"}
+            <TableCell
+              key={columnMeta.index}
               style={{
                 fontWeight: "800",
                 fontSize: "0.75rem",
               }}
             >
               Pre-Flight KPI
-            </td>
+            </TableCell>
           );
         },
         setCellProps: () => ({
@@ -265,17 +253,17 @@ const Overview = () => {
       options: {
         sort: false,
         filter: false,
-        customHeadRender: () => {
+        customHeadRender: (columnMeta: MUIDataTableCustomHeadRenderer) => {
           return (
-            <td
-              key={"Gate KPI"}
+            <TableCell
+              key={columnMeta.index}
               style={{
                 fontWeight: "800",
                 fontSize: "0.75rem",
               }}
             >
               Gate KPI
-            </td>
+            </TableCell>
           );
         },
         setCellProps: () => ({
@@ -298,7 +286,7 @@ const Overview = () => {
       label: "Branch",
       options: {
         sort: true,
-        filter:true,
+        filter: true,
         filterType: "multiselect",
         customHeadRender: (
           columnMeta: MUIDataTableCustomHeadRenderer,
@@ -384,14 +372,17 @@ const Overview = () => {
 
   return (
     <ContentContainer sx={{ overflowX: "hidden" }}>
-      <Box sx={{ width: "100%",height: "100%" }}>
-        {loading ?<Loader />:
-        <MUIDataTable
-          title="Builds"
-          data={buildData}
-          columns={columns(buildData)}
-          options={options}
-        />}
+      <Box sx={{ width: "100%", height: "100%" }}>
+        {loading ? (
+          <Loader />
+        ) : (
+          <MUIDataTable
+            title="Builds"
+            data={buildData}
+            columns={columns(buildData)}
+            options={options}
+          />
+        )}
       </Box>
     </ContentContainer>
   );
